@@ -33,4 +33,5 @@ jobs:
       uses: actions/upload-artifact@master
       with:
         name: OpenWrt firmware
-        path:./bin/targets/rockchip/armv8/
+        path: ./bin/targets/rockchip/armv8/
+
